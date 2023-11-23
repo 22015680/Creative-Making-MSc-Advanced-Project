@@ -19,7 +19,7 @@ The philosophical contemplation of nihilism further extended to the theme of dys
 Beyond the design of the game levels, artistic style and musical effects are also crucial components of the game. Hence, I studied the Chinese ink painting style and thoroughly explored how to integrate it into the visual design of a modern game, creating a unique artistic style for the game. Additionally, I researched sounds from traditional Chinese musical instruments like the Guqin, ingeniously integrating them into the game.  
 
 <div align="center">
-  <img src="https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/%E5%9B%BE%E7%89%87%201.png)https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/%E5%9B%BE%E7%89%87%201.png" alt="Brainstorming"><br>
+  <img src="[https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/%E5%9B%BE%E7%89%87%201.png)https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/%E5%9B%BE%E7%89%87%201.png](https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/Image1.png)" alt="Brainstorming"><br>
   Brainstorming
 </div>  
 
