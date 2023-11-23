@@ -107,6 +107,7 @@ In this level, I've designed a labyrinth-themed puzzle centered around watering 
     </td>
     <td align="center">
       <img src="Images/Image11.png" alt="Part of Code of Level 3"><br>
+      <img src="Images/Image12.png" alt="Part of Code of Level 3"><br>
       Part of Code of Level 3
     </td>
   </tr>
@@ -119,11 +120,11 @@ The primary level is set in a mountain village, which serves as the protagonist'
 <table>
   <tr>
     <td align="center">
-      <img src="Images/Image12.png" alt="Main Scene"><br>
+      <img src="Images/Image13.png" alt="Main Scene"><br>
       Main Scene
     </td>
     <td align="center">
-      <img src="Images/Image13.png" alt="Part of Code of Main Scene"><br>
+      <img src="Images/Image14.png" alt="Part of Code of Main Scene"><br>
       Part of Code of Main Scene
     </td>
   </tr>
