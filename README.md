@@ -139,11 +139,28 @@ In this level, players are tasked with fishing activities, which involve interac
   <tr>
     <td align="center">
       <img src="Images/Image17.png" alt="Fishing Scene"><br>
-      Main Scene
+      Fishing Scene
     </td>
     <td align="center">
-      <img src="Images/Image18.png" alt="Part of Code of Fishing Level"><br>
-      Part of Code of Main Scene
+      <img src="Images/Image16.png" alt="Part of Code of Fishing Level"><br>
+      Part of Code of Fishing Level
+    </td>
+  </tr>
+</table>   
+
+### Level Five: Negotiating with the Guard  
+
+In this level, I've crafted a puzzle segment that involves negotiating with a guard. Players can only progress through this level after successfully solving puzzles in the preceding levels and acquiring gold coins. This design not only adds a layer of challenge but also weaves together the narrative threads of the game, emphasizing the importance of strategy and problem-solving. The outcome of this level is contingent upon the player's choices, with the acquisition of the crucial item—the gold ingot—being pivotal. Presenting the gold ingot to the guard enables the player to secure passage along the mountain path. In contrast, offering the guard a fish or steamed bun without the gold ingot results in the player being driven away, further highlighting the impact of decision-making on the game's progression.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image19.png" alt="Background of Level Five"><br>
+      Background of Level Five
+    </td>
+    <td align="center">
+      <img src="Part of Code of Level Five" alt="Part of Code of Level Five"><br>
+      Part of Code of Fishing Level
     </td>
   </tr>
 </table> 
