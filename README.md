@@ -39,4 +39,54 @@ After researching the art style, I had been actively searching for art resources
   3D Scene Made by Mamenr on Bilibili.com
 </div>   
 
-For the level design, I then created custom game assets based on the art style of Chinese ink painting. This includes original character designs, environmental elements, and interface components. I was committed to ensuring that every element harmoniously blends with the ink painting style and the overarching theme of our game. This phase is crucial in bringing my artistic vision to life, as it allows me to infuse traditional artistry into the interactive realm of game design.
+For the level design, I then created custom game assets based on the art style of Chinese ink painting. This includes original character designs, environmental elements, and interface components. I was committed to ensuring that every element harmoniously blends with the ink painting style and the overarching theme of our game. This phase is crucial in bringing my artistic vision to life, as it allows me to infuse traditional artistry into the interactive realm of game design.  
+
+<div align="center">
+  <img src="Images/Image4.png" alt="Art Assets Created by Myself"><br>
+  Art Assets Created by Myself
+</div>   
+
+In addition to the visual and gameplay elements, I've delved into identifying the most fitting musical style for my game. My search led me to the ancient and classically Chinese instrument, the Guqin. The Guqin, with its pentatonic scale of Gong, Shang, Jue, Zhi, and Yu, captures the essence of traditional Chinese music and its historical context more profoundly than the more modern Guzheng.  
+
+After much consideration, I've selected two renowned pieces that resonate with my game's theme. The first is the legendary Guangling San, a piece that embodies the depth and complexity of Chinese classical music. The second is Zhuang Zhou Meng Die, a piece that profoundly reflects the themes of nihilism and transcendent thought. These selections not only enhance the game's ambiance but also align seamlessly with its narrative and philosophical undertones.  
+
+## Phase 3: Level Construction and Coding  
+
+My game comprises six levels and one main scene, each meticulously crafted to mirror the protagonist's monotonous, day-to-day life. This repetitive cycle not only reflects the mundane aspects of her existence but also sets the stage for her deep longing to discover what lies beyond the mountains. This yearning is a driving force in the game, propelling her to overcome numerous challenges and obstacles to ascend the towering peaks. However, upon reaching the summit, she's met with the revelation that beyond the mountain lies yet another mountain, a poignant moment that encapsulates the theme of nihilism in our narrative.  
+
+My game comprises six levels and one main scene, each meticulously crafted to mirror the protagonist's monotonous, day-to-day life. This repetitive cycle not only reflects the mundane aspects of her existence but also sets the stage for her deep longing to discover what lies beyond the mountains. This yearning is a driving force in the game, propelling her to overcome numerous challenges and obstacles to ascend the towering peaks. However, upon reaching the summit, she's met with the revelation that beyond the mountain lies yet another mountain, a poignant moment that encapsulates the theme of nihilism in our narrative.  
+
+### Level One: Home  
+
+This level depicts the warmth and confinement of protagonist's family life, with dialogues and animation sequences to enrich the narrative.
+The main challenge I encountered was managing the video playback and the logic for progressing through dialogues. Balancing the technical aspects of media integration with the storytelling flow proved to be a crucial part of this level's design process.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image5.png" alt="Background of Level One"><br>
+      Background of Level One
+    </td>
+    <td align="center">
+      <img src="Images/Image6.png" alt="Part of the Code of Level One"><br>
+      Part of the Code of Level One
+    </td>
+  </tr>
+</table>   
+
+### Level Two: School  
+
+In the school scene, I've introduced a multiple-choice question-answer level to test the player's judgment and knowledge. This design choice aims to immerse players in the protagonist's world, letting them experience the tension of a pop quiz and the overall ambience of school life alongside the main character. An essential aspect of this level is the different feedback messages that result from the player's choices. Selecting an incorrect answer leads to negative consequences, such as an angry teacher's image and words, while a correct answer results in praise from the teacher. The challenge in this level lies in crafting the logic behind the choices and dialogues, ensuring they are coherent and contribute meaningfully to the gameplay and narrative, while also effectively conveying the impact of the player's decisions on the game's progression.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image7.png" alt="Background of Level Two"><br>
+      Background of Level Two
+    </td>
+    <td align="center">
+      <img src="Images/Image8.png" alt="Part of Code of Level Two"><br>
+      Part of Code of Level Two
+    </td>
+  </tr>
+</table>   
