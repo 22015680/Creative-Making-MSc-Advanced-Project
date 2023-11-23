@@ -1,8 +1,11 @@
 # Creative Making: MSc Advanced Project - Beyond the Mountain Blog
 
-Github Link: https://github.com/22015680/Creative-Making-MSc-Advanced-Project \r\n
-Video Link: https://www.youtube.com/watch?v=lh29TvXH9tU&t=4s \r\n
-Game Download Link: https://idealismfive.itch.io/beyond-the-mountain \r\n
+Github Link: https://github.com/22015680/Creative-Making-MSc-Advanced-Project  
+
+Video Link: https://www.youtube.com/watch?v=lh29TvXH9tU&t=4s  
+
+Game Download Link: https://idealismfive.itch.io/beyond-the-mountain  
+
 
 ## Introduction
 Beyond the Mountain is an adventure puzzle game themed around nihilism, combining Chinese ink painting style with modern game design concepts to create a unique gaming experience. This project aims to explore the disappointment and self-discovery in an individual's quest for meaning. Through six interrelated game levels, it portrays the protagonist's emotional journey through different stages of life.
