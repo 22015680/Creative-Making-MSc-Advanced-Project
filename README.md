@@ -64,11 +64,11 @@ The main challenge I encountered was managing the video playback and the logic f
 <table>
   <tr>
     <td align="center">
-      <img src="Images/Image5.png" alt="Background of Level One"><br>
+      <img src="Images/Image6.png" alt="Background of Level One"><br>
       Background of Level One
     </td>
     <td align="center">
-      <img src="Images/Image6.png" alt="Part of the Code of Level One"><br>
+      <img src="Images/Image5.png" alt="Part of the Code of Level One"><br>
       Part of the Code of Level One
     </td>
   </tr>
@@ -81,12 +81,50 @@ In the school scene, I've introduced a multiple-choice question-answer level to 
 <table>
   <tr>
     <td align="center">
-      <img src="Images/Image7.png" alt="Background of Level Two"><br>
+      <img src="Images/Image8.png" alt="Background of Level Two"><br>
       Background of Level Two
     </td>
     <td align="center">
-      <img src="Images/Image8.png" alt="Part of Code of Level Two"><br>
+      <img src="Images/Image7.png" alt="Part of Code of Level Two"><br>
       Part of Code of Level Two
     </td>
   </tr>
 </table>   
+
+### Level Three: Farming Activities  
+
+In this level, I've designed a labyrinth-themed puzzle centered around watering crops. The protagonist must navigate and solve the maze to access water for irrigating the fields. This design metaphorically represents the confusion and exploration individuals often encounter in life. Upon completing this level, the main scene undergoes a transformation as rice appears, providing players with positive feedback and a sense of accomplishment for having completed the task. The primary challenge I faced in this level was managing scene transitions, particularly adjusting the protagonist's movements and the camera's following logic to ensure seamless gameplay while effectively conveying the impact of the player's actions on the game's environment and progression.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image9.png" alt="Maze"><br>
+      Maze
+    </td>
+    <td align="center">
+      <img src="Images/Image10.png" alt="Water God(Player of Level 3)"><br>
+      Water God(Player of Level 3)
+    </td>
+    <td align="center">
+      <img src="Images/Image11.png" alt="Part of Code of Level 3"><br>
+      Part of Code of Level 3
+    </td>
+  </tr>
+</table>   
+
+### Main Scene: Level Transitions, Scene Changes, and the Backpack System  
+
+The primary level is set in a mountain village, which serves as the protagonist's hometown. Here, the protagonist explores to find interactive items and access other levels. This main level houses the core logic for scene transitions. For example, interacting with certain items in the scene can lead to a transition to another level. After completing a level, players can witness changes in the scene and acquire new items. These items can then be viewed and managed within the backpack system, a key feature that enhances the gameplay experience.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image12.png" alt="Main Scene"><br>
+      Main Scene
+    </td>
+    <td align="center">
+      <img src="Images/Image13.png" alt="Part of Code of Main Scene"><br>
+      Part of Code of Main Scene
+    </td>
+  </tr>
+</table> 
