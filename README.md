@@ -18,7 +18,11 @@ The philosophical contemplation of nihilism further extended to the theme of dys
 
 Beyond the design of the game levels, artistic style and musical effects are also crucial components of the game. Hence, I studied the Chinese ink painting style and thoroughly explored how to integrate it into the visual design of a modern game, creating a unique artistic style for the game. Additionally, I researched sounds from traditional Chinese musical instruments like the Guqin, ingeniously integrating them into the game.  
 
-<figure>
-  <img src="your-image-url" alt="插图描述">
-  <figcaption>插图描述或注释</figcaption>
-</figure>
+<div align="center">
+  <img src="[your-image-url](https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/%E5%9B%BE%E7%89%87%201.png)https://github.com/22015680/Creative-Making-MSc-Advanced-Project/blob/main/Images/%E5%9B%BE%E7%89%87%201.png" alt="图片描述"><br>
+  Brainstorming
+</div>  
+
+## Phase Two: Artistic and Music Design and Asset Creation  
+
+First, I researched the traditional art form of Chinese ink painting. There are four unique aspects of this art style. One of the most distinctive features of ink painting is its use of ink shades. The art predominantly relies on the depth and intensity of ink to express images and emotions, using minimal colors. Artists skillfully employ variations in ink shades to depict light, shadow, and texture. The second unique aspect is its lines. Different brush strokes and line qualities convey various textures and movements. Artists use varied brush techniques like stippling, smearing, and washing to represent the form and texture of objects. The third unique aspect is the concept of 'leaving blank spaces', which is not about filling the entire canvas but using intentional blank spaces to create a sense of depth and vastness, imbued with poetic and philosophical meaning. This approach reflects the Chinese philosophical idea of 'the coexistence of void and reality'. The fourth aspect is harmony of motion and stillness. A common feature in ink painting is the harmonious coexistence of dynamic and static elements. For instance, a painting might juxtapose the stillness of mountains against the motion of flowing water, creating a combined sense of movement and tranquility.
