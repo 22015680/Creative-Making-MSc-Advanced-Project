@@ -160,7 +160,46 @@ In this level, I've crafted a puzzle segment that involves negotiating with a gu
     </td>
     <td align="center">
       <img src="Images/Image18.png" alt="Part of Code of Level Five"><br>
-      Part of Code of Fishing Level
+      Part of Code of Level Five
     </td>
   </tr>
-</table> 
+</table>   
+
+### Level Six: The Mountain Climbing Challenge  
+
+This level is designed around a continuous jumping mechanic, where players must avoid obstacles. Upon completion of the level, an enlightening animation will be played, symbolizing the ultimate quest for the meaning of life. The primary challenge faced in this level is the coding logic for a side-scrolling platform game.This stage of my project illustrates my efforts to combine engaging gameplay mechanics with profound thematic content, reflecting our dedication to creating a gaming experience that is both challenging and thought-provoking.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image20.png" alt="Protagonist Image"><br>
+      Protagonist Image
+    </td>
+    <td align="center">
+      <img src="Images/Image21.png" alt="Background of Level Six"><br>
+      Background of Level Six
+    </td>
+    <td align="center">
+      <img src="Images/Image22.png" alt="Part of Code of Level Six"><br>
+      <img src="Images/Image23.png" alt="Part of Code of Level Six"><br>
+      Part of Code of Level Six
+    </td>
+  </tr>
+</table>   
+
+### Phase 4: Debugging  
+
+In the post-development phase of the project, a meticulous debugging process was initiated, targeting several key operational discrepancies. A predominant issue pertained to the incongruence in player positional updates across varied level designs. This was predominantly observed in levels necessitating player switching mechanisms, wherein the cursor functionality conflicted between click-based interaction levels and first-person perspective levels. The former required an unrestricted cursor movement, whereas the latter demanded a fixed cursor position at the screen's center. To address this dichotomy, a specialized code module was implemented to dynamically adjust cursor behavior corresponding to the specific demands of each level type.  
+
+In the post-development phase of the project, a meticulous debugging process was initiated, targeting several key operational discrepancies. A predominant issue pertained to the incongruence in player positional updates across varied level designs. This was predominantly observed in levels necessitating player switching mechanisms, wherein the cursor functionality conflicted between click-based interaction levels and first-person perspective levels. The former required an unrestricted cursor movement, whereas the latter demanded a fixed cursor position at the screen's center. To address this dichotomy, a specialized code module was implemented to dynamically adjust cursor behavior corresponding to the specific demands of each level type.  
+
+Furthermore, the debugging phase unveiled a spectrum of minor yet significant bugs, primarily associated with the configuration of triggers and colliders, and the placement of UI elements necessitating continuous state updates. The initial deployment of these UI elements within the Start method led to complications in accessing and reflecting the global UI state accurately. Rectifying these issues involved strategic relocation of UI updates to the Update method and refinement of interaction mechanics, thereby enhancing the gameplay's fluidity and user interface experience. This detailed debugging and refinement process was imperative in augmenting the game's overall functional efficacy and user engagement.  
+
+<div align="center">
+  <img src="Images/Image24.png" alt="Code Modifications for Debugging"><br>
+  Code Modifications for Debugging
+</div>   
+
+## Conclusion  
+
+Beyond the Mountain is not just a combination of technical skills and artistic creation, it's a reinterpretation of traditional culture through the lens of modern game design. The project represents a deep dive into game design as an art form, exploring philosophical nihilism themes through interactive media. It is hoped that this game will resonate with players, prompting introspection about life and existence, and sparking new conversations in the realm of game design.
