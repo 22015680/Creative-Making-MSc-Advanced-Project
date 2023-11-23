@@ -98,11 +98,11 @@ In this level, I've designed a labyrinth-themed puzzle centered around watering 
 <table>
   <tr>
     <td align="center">
-      <img src="Images/Image9.png" alt="Maze"><br>
+      <img src="Images/Image10.png" alt="Maze"><br>
       Maze
     </td>
     <td align="center">
-      <img src="Images/Image10.png" alt="Water God(Player of Level 3)"><br>
+      <img src="Images/Image9.png" alt="Water God(Player of Level 3)"><br>
       Water God(Player of Level 3)
     </td>
     <td align="center">
@@ -176,12 +176,12 @@ This level is designed around a continuous jumping mechanic, where players must 
       Protagonist Image
     </td>
     <td align="center">
-      <img src="Images/Image22.png" alt="Background of Level Six"><br>
+      <img src="Images/Image23.png" alt="Background of Level Six"><br>
       Background of Level Six
     </td>
     <td align="center">
       <img src="Images/Image20.png" alt="Part of Code of Level Six"><br>
-      <img src="Images/Image23.png" alt="Part of Code of Level Six"><br>
+      <img src="Images/Image22.png" alt="Part of Code of Level Six"><br>
       Part of Code of Level Six
     </td>
   </tr>
