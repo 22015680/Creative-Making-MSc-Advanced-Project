@@ -120,11 +120,29 @@ The primary level is set in a mountain village, which serves as the protagonist'
 <table>
   <tr>
     <td align="center">
-      <img src="Images/Image13.png" alt="Main Scene"><br>
+      <img src="Images/Image15.png" alt="Main Scene"><br>
       Main Scene
     </td>
     <td align="center">
+      <img src="Images/Image13.png" alt="Part of Code of Main Scene"><br>
       <img src="Images/Image14.png" alt="Part of Code of Main Scene"><br>
+      Part of Code of Main Scene
+    </td>
+  </tr>
+</table>   
+
+### Level Four: Fishing  
+
+In this level, players are tasked with fishing activities, which involve interaction with a fishing rod. This is executed through a user interface that requires clicking and dragging. A key aspect of this level is the discovery of coins inside the fish's mouth – a critical item for progressing in the game. These coins are essential for negotiating with the guard to access the mountain climbing level, thereby testing the player's observation and exploration skills. In designing this level, I paid homage to the fishing challenge in Cube Escape: Rusty Lake. The primary coding challenges here were related to the backpack system and the item dragging mechanics.  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Image17.png" alt="Fishing Scene"><br>
+      Main Scene
+    </td>
+    <td align="center">
+      <img src="Images/Image18.png" alt="Part of Code of Fishing Level"><br>
       Part of Code of Main Scene
     </td>
   </tr>
