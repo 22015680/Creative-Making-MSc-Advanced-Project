@@ -159,7 +159,7 @@ In this level, I've crafted a puzzle segment that involves negotiating with a gu
       Background of Level Five
     </td>
     <td align="center">
-      <img src="Part of Code of Level Five" alt="Part of Code of Level Five"><br>
+      <img src="Images/Image18.png" alt="Part of Code of Level Five"><br>
       Part of Code of Fishing Level
     </td>
   </tr>
